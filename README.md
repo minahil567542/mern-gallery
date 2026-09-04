@@ -36,20 +36,15 @@ npm run dev            # http://localhost:5173
 | DELETE | /api/images/:id | Delete one image                             |
 
 ## Screenshots
-## Screenshots
 
 ### 1. Upload Form
-
-![Upload Form](screenshots/01-upload.png)
+![Upload Form](screenshots/1.%20upload.png)
 
 ### 2. Gallery Grid
-
-![Gallery Grid](screenshots/02-gallery.png)
+![Gallery Grid](screenshots/2.%20gallery.png)
 
 ### 3. Image Viewer
-
-![Image Viewer](screenshots/03-viewer.png)
+![Image Viewer](screenshots/3.%20viewer.png)
 
 ### 4. Delete
-
-![Delete](screenshots/05-delete.png)
+![Delete](screenshots/4.%20delete.png)
